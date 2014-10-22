@@ -1,0 +1,32 @@
+{
+    "name": "stProxy",
+    "description": "proxy of taobao for triggering daily,common,local and online",
+    "version": "0.1.0",
+    "homepage": "",
+    "author": [{
+        "name": "霜草",
+        "email": "qindong.qd@alibaba-inc.com"
+    }],
+    "repository": {
+        "type": "git",
+        "url": "git@gitlab.alibaba-inc.com:qindong.qd/stProxy.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "/blob/master/LICENSE-MIT"
+        }
+    ],
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "dependencies": {
+        "bufferhelper": "0.2.0",
+        "q": "1.0.1"
+        },
+    "keywords": [
+        "static",
+        "proxy"
+    ],
+    "readmeFilename": "README.md"
+}
