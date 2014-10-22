@@ -1,1 +1,2 @@
-read me
+stProxy
+本地和线上静态资源的简易代理
